@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 28 09:16:20 CST 2018
+alihbase-common-1.1.3.jar>alimaven=
+alihbase-common-1.1.3.pom>alimaven=
+alihbase-common-1.1.3-tests.jar>alimaven=

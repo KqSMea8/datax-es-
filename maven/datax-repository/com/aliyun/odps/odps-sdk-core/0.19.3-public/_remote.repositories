@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 27 17:34:45 CST 2018
+odps-sdk-core-0.19.3-public.jar>central=
+odps-sdk-core-0.19.3-public.jar>alimaven=
+odps-sdk-core-0.19.3-public.pom>central=
+odps-sdk-core-0.19.3-public.pom>alimaven=
